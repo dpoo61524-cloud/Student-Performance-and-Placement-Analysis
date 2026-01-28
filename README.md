@@ -37,7 +37,7 @@ The system combines machine learning techniques with natural language processing
 ##  How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+  git clone https://github.com/dpoo61524-cloud/Student-Performance-and-Placement-Analysis.git
    
 2. Navigate to the project directory:
    cd your-repo-name
