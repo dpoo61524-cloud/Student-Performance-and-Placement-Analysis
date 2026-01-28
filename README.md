@@ -42,7 +42,7 @@ The system combines machine learning techniques with natural language processing
 2. Navigate to the project directory:
    cd your-repo-name
    
-3.Install required dependencies:
+3. Install required dependencies:
    pip install -r requirements.txt
 
 4. Run the Streamlit application:
