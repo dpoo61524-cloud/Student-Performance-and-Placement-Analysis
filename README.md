@@ -32,8 +32,6 @@ The system combines machine learning techniques with natural language processing
 
 ---
 
----
-
 ##  How to Run the Project
 
 1. Clone the repository:
